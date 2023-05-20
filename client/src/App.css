@@ -1,0 +1,60 @@
+*{
+  box-sizing: border-box;
+}
+
+.container{
+  width: 70%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+table{
+  width: 100%;
+  text-align: center;
+}
+
+button{
+  background-color: rgb(33, 180, 131);
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem;
+  color: white;
+  margin-inline: 0.5rem;
+}
+
+table{
+  /* border: 1px solid black; */
+  border-radius: 8px;
+  /* border-collapse: collapse; */
+}
+
+tr:nth-child(2n){
+  background-color: aquamarine;
+}
+
+tr:nth-child(2n+1){
+  background-color: rgb(100, 197, 165);
+}
+
+.form--element{
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+  margin-block: 1rem;
+}
+
+select{
+  width: 100%;
+}
+
+.select{
+  width: 55%;
+}
+
+.products{
+  width: 50%;
+}
+
+label{
+  margin-right: 1rem;
+}
