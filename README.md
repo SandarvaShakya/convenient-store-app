@@ -14,8 +14,6 @@ This app is a simple conveninet store database app that creates invoices for cus
 
 This app uses MySQL database from XAMPP. All the database operations are done using MySQL procedures.
 
-<!-- <video src="https://i.imgur.com/aV8qKLI.mp4" alt="screenshot"> -->
-
 ## Setting up Locally
 
 This project requires MySQL database
@@ -38,7 +36,6 @@ npm run dev
 
 ## Demo
 
-<figure class="video_container">
-  <iframe src="https://i.imgur.com/aV8qKLI.mp4" frameborder="0" allowfullscreen="true">
-  </iframe>
-</figure>
+<video controls autoplay>
+  <source src="https://i.imgur.com/aV8qKLI.mp4" type="video/mp4">
+</video>
