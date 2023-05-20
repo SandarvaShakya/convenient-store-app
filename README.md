@@ -36,6 +36,4 @@ npm run dev
 
 ## Demo
 
-<video controls autoplay>
-  <source src="https://i.imgur.com/aV8qKLI.mp4" type="video/mp4">
-</video>
+![Screenshot](https://i.imgur.com/MriSSyN.gif)
